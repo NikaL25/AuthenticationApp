@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:pages\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:pages\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\pages\\client.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:pages\\client.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\pages\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:pages\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\pages\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:pages\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\pages\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:pages\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\migrations\\20241007200502_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:migrations\\20241007200502_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|c:\\users\\user\\desktop\\asp\\authenticationapp\\migrations\\20241008125101_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCC5F4A-B0E9-4203-88A5-7C8D04B827F3}|AuthenticationApp.csproj|solutionrelative:migrations\\20241008125101_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T16:36:55.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Client.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Client.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Client.cshtml.cs",
+              "RelativeToolTip": "Pages\\Client.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:24:17.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Admin.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:22:06.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Admin.cshtml",
+              "RelativeToolTip": "Pages\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T16:21:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T16:13:13.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Client.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Client.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Client.cshtml",
+              "RelativeToolTip": "Pages\\Client.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T16:23:44.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:00:39.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\User.cshtml",
+              "RelativeDocumentMoniker": "Pages\\User.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\User.cshtml",
+              "RelativeToolTip": "Pages\\User.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T16:05:23.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T13:04:27.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T12:57:50.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\User.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\User.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Pages\\User.cshtml.cs",
+              "RelativeToolTip": "Pages\\User.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:06:17.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAiwJIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:12:45.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:02:05.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T16:01:41.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T14:04:49.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-08T12:55:40.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241008125101_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Migrations\\20241008125101_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241008125101_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Migrations\\20241008125101_SecondMigration.cs",
+              "RelativeToolTip": "Migrations\\20241008125101_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:51:02.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241007200502_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Migrations\\20241007200502_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241007200502_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Migrations\\20241007200502_FirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20241007200502_FirstMigration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:05:03.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Asp\\AuthenticationApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:02:07.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
